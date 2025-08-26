@@ -25,6 +25,7 @@ Desenvolvedor Full-Stack com foco em **Java**, **APIs RESTful** e **Arquitetura 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
+<div>
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -36,7 +37,7 @@ Desenvolvedor Full-Stack com foco em **Java**, **APIs RESTful** e **Arquitetura 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
+</div>
 ---
 
 ### 🌟 Projetos em Destaque
@@ -53,13 +54,7 @@ Desenvolvedor Full-Stack com foco em **Java**, **APIs RESTful** e **Arquitetura 
 [![Nildo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nildo-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/nildo-santos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nildo-santos&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/nildo-santos)
 
-<!-- Activity Graph -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nildo-santos&theme=react-dark)](https://github.com/nildo-santos)
 
-<!-- Trophy showcase -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=nildo-santos&theme=tokyonight)](https://github.com/nildo-santos)
-
----
 
 ### 🌐 Redes e Contato
 <a href="https://www.linkedin.com/in/nildo-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -67,8 +62,5 @@ Desenvolvedor Full-Stack com foco em **Java**, **APIs RESTful** e **Arquitetura 
 
 ---
 
-### 🎬 Workflow (GIFs animados)
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP1v7dWj4g6ZgY/giphy.gif" alt="coding workflow" width="500"/>
-</p>
+
 
