@@ -43,9 +43,9 @@ Desenvolvedor Full-Stack com foco em **Java**, **APIs RESTful** e **Arquitetura 
 ### 🌟 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|------------|
-| [API de Produtos](https://github.com/nildo-santos/projetoApiProdutos) | Backend em Spring Boot + PostgreSQL, com Swagger e Docker | Java, Spring Boot, PostgreSQL |
-| [Frontend de Produtos](https://github.com/nildo-santos/projetoWebProdutos) | Aplicação Angular integrada com API REST | Angular, Bootstrap |
-| [Clone Netflix](https://github.com/nildo-santos/netflix-clone) | Aplicação front-end com Angular + consumo de API de filmes | Angular, API REST |
+| [API de Agenda de tarefas](https://github.com/nildo-santos/projetoAgendaApi) | Backend em Spring Boot + PostgreSQL, com Swagger e Docker | Java, Spring Boot, PostgreSQL |
+| [FrontEnd da Agenda de tarefas](https://github.com/nildo-santos/projetoAgendaWeb) | Aplicação Angular integrada com API REST | Angular, Bootstrap |
+| [Autenticação de Usuarios](https://github.com/nildo-santos/AutenticacaoApi) | Api voltado para criação, autenticação e definição de perfis e permissões de usuários | Java, Spring Boot, PostgreSQL |
 
 ---
 
