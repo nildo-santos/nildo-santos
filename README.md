@@ -47,23 +47,21 @@ Busco sempre criar soluções escaláveis, seguras e de alta qualidade.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
----
+
 ---
 
 ### 📊 GitHub Interativo
 
 <div align="center">
-  <a href="https://github.com/nildo-santos">
-    <img src="https://github-readme-stats.vercel.app/api?username=nildo-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nildo's GitHub Stats" height="195"/>
-  </a>
-  <a href="https://github.com/nildo-santos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildo-santos&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" height="195"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nildo-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildo-santos&layout=compact&langs_count=6&theme=tokyonight&v=1" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
-### 🐍 Minhas Contribuições
+---
+
+### Minhas Contribuições
 
 <div align="center">
   <picture>
@@ -73,7 +71,7 @@ Busco sempre criar soluções escaláveis, seguras e de alta qualidade.
   </picture>
 </div>
 
-
+---
 
 ### 🌐 Redes e Contato
 <a href="https://www.linkedin.com/in/nildo-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
