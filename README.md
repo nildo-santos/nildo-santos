@@ -51,9 +51,27 @@ Busco sempre criar soluções escaláveis, seguras e de alta qualidade.
 ---
 
 ### 📊 GitHub Interativo
-<!-- Stats cards -->
-[![Nildo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nildo-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/nildo-santos)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nildo-santos&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/nildo-santos)
+
+<div align="center">
+  <a href="https://github.com/nildo-santos">
+    <img src="https://github-readme-stats.vercel.app/api?username=nildo-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nildo's GitHub Stats" height="195"/>
+  </a>
+  <a href="https://github.com/nildo-santos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildo-santos&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" height="195"/>
+  </a>
+</div>
+
+<br>
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nildo-santos/nildo-santos/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nildo-santos/nildo-santos/output/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/nildo-santos/nildo-santos/output/github-snake.svg">
+  </picture>
+</div>
 
 
 
